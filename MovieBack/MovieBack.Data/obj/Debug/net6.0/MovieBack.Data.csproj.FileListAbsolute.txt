@@ -1,0 +1,17 @@
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\MovieBack.Data.deps.json
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\MovieBack.Data.dll
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\ref\MovieBack.Data.dll
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\MovieBack.Data.pdb
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\MovieBack.Model.dll
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\MovieBack.Model.pdb
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.csproj.AssemblyReference.cache
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.AssemblyInfoInputs.cache
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.AssemblyInfo.cs
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.csproj.CoreCompileInputs.cache
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.csproj.CopyComplete
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.dll
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\ref\MovieBack.Data.dll
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.pdb
+G:\Movie\MovieBack\MovieBack.Data\bin\Debug\net6.0\MovieBack.Data.runtimeconfig.json
+G:\Movie\MovieBack\MovieBack.Data\obj\Debug\net6.0\MovieBack.Data.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+G:\Movie\MovieBack\MovieBack.Model\bin\Debug\net6.0\MovieBack.Model.deps.json
+G:\Movie\MovieBack\MovieBack.Model\bin\Debug\net6.0\MovieBack.Model.dll
+G:\Movie\MovieBack\MovieBack.Model\bin\Debug\net6.0\ref\MovieBack.Model.dll
+G:\Movie\MovieBack\MovieBack.Model\bin\Debug\net6.0\MovieBack.Model.pdb
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.csproj.AssemblyReference.cache
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.AssemblyInfoInputs.cache
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.AssemblyInfo.cs
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.csproj.CoreCompileInputs.cache
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.dll
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\ref\MovieBack.Model.dll
+G:\Movie\MovieBack\MovieBack.Model\obj\Debug\net6.0\MovieBack.Model.pdb

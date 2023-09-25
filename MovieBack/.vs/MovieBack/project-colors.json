@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab8db4d8-4b13-4701-a6a9-95d0f89649d6": {
+      "ProjectGuid": "ab8db4d8-4b13-4701-a6a9-95d0f89649d6",
+      "DisplayName": "MovieBack",
+      "ColorIndex": 0
+    },
+    "e3fe8cd0-a4f7-440c-8acc-39582f25e2b3": {
+      "ProjectGuid": "e3fe8cd0-a4f7-440c-8acc-39582f25e2b3",
+      "DisplayName": "MovieBack.Data",
+      "ColorIndex": 1
+    },
+    "19380d13-06ea-4dca-9f25-969270a5790f": {
+      "ProjectGuid": "19380d13-06ea-4dca-9f25-969270a5790f",
+      "DisplayName": "MovieBack.Business",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "fc637a33-2980-4f53-b580-427fcf19e544": {
+      "ProjectGuid": "fc637a33-2980-4f53-b580-427fcf19e544",
+      "DisplayName": "MovieBack.Model",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

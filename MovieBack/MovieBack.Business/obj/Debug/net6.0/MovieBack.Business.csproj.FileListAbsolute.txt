@@ -1,0 +1,17 @@
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.csproj.AssemblyReference.cache
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.AssemblyInfoInputs.cache
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.AssemblyInfo.cs
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.csproj.CoreCompileInputs.cache
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Business.deps.json
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Business.dll
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\ref\MovieBack.Business.dll
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Business.pdb
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Data.dll
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Model.dll
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Data.pdb
+G:\Movie\MovieBack\MovieBack.Business\bin\Debug\net6.0\MovieBack.Model.pdb
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.csproj.CopyComplete
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.dll
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\ref\MovieBack.Business.dll
+G:\Movie\MovieBack\MovieBack.Business\obj\Debug\net6.0\MovieBack.Business.pdb
